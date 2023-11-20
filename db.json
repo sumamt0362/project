@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "",
+      "complted": false,
+      "id": 2
+    },
+    {
+      "title": "nivi",
+      "id": 3
+    },
+    {
+      "title": "",
+      "id": 4
+    },
+    {
+      "title": "",
+      "id": 5
+    },
+    {
+      "title": "laxmi",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "suma",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "spandana",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "completed": false,
+      "id": 9
+    },
+    {
+      "title": "",
+      "completed": false,
+      "id": 10
+    },
+    {
+      "title": "shree",
+      "completed": false,
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
